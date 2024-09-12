@@ -11,7 +11,7 @@ You can see the result here: https://w3schools-test.github.io/
 We generally only have one condition: 
 We will not allow messages that are negative, or hurtful. Try to be welcome and positive!
 
-Thank you w3school..!!
+Thank you w3schools..!!
 
 # What should my message look like?
 
